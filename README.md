@@ -1,1 +1,1 @@
-# 236_Project
+# 236 Project: Molecular Conformation Generation
